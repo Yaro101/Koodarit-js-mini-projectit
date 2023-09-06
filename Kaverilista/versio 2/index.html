@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Kaverilistä v2</title>
+        <link rel="stylesheet" href="style.css">
+    </head>
+
+    <body>
+        <h1>Kaverilista</h1>
+
+        <form id="friendForm">
+            <label for="friendName">Syötä nimi:</label><br>
+            <input type="text" autocomplete="off" id="friendName" required>
+            <button type="submit">Lisää Kaveri</button>
+            <button type="button" id="deleteFriendButton">Poista Kaveri</button>
+            <button type="button" id="sortFriendsButton">Järjestä Kaverit</button>
+        </form>
+
+        <div class="container">
+            <div id="friendsList"></div>
+        </div>
+
+        <script src="main.js"></script>
+    </body>
+</html>
+        
