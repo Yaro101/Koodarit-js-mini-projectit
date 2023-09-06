@@ -1,0 +1,38 @@
+* {
+    margin: 7px;
+    padding: 0px;
+    box-sizing: border-box;
+  }
+  
+  body {
+    font-family: Arial, sans-serif;
+    line-height: 15px;
+  }
+  h1 {
+    color: rgb(27, 27, 82);
+    margin: 15px 5px;
+  }
+  
+  .container {
+    margin: 5px 0;
+    width: auto;
+    overflow: auto;
+    padding: 0.5rem 0.5rem;
+    line-height: 20px;
+  }
+
+  #addFriendButton {
+    display: block;
+    width: 150px;
+    padding: 10px 15px;
+    border: 0;
+    background: #100c47;
+    color: #fff;
+    border-radius: 5px;
+    margin: 35px 5px;
+    font-weight: bold;
+  }
+  
+  #addFriendButton:hover {
+    background: #645c72;
+  }
