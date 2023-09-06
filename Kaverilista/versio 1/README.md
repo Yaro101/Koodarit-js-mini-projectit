@@ -4,10 +4,10 @@ Yksinkertainen verkkosovellus, jonka avulla voit ylläpitää luetteloa ystävie
 
 ## Sisällysluettelo
 
-- [Aloittaminen] (#Aloittaminen)
-- [Käyttö] (#käyttö)
-- [Contributing] (#contributing)
-- [Lisenssi] (#Lisenssi)
+- [Aloittaminen](#Aloittaminen)
+- [Käyttö](#käyttö)
+- [Contributing](#contributing)
+- [Lisenssi](#Lisenssi)
 
 ## Aloittaminen
 
