@@ -1,6 +1,6 @@
 # Kaverilista Verkkosovellus
 
-Yksinkertainen verkkosovellus, jonka avulla voit ylläpitää luetteloa ystävien nimistä. Voit lisätä jopa 10 ystävää, ja heidän nimensä näkyvät verkkosivulla.
+Yksinkertainen verkkosovellus, jonka avulla voit ylläpitää luetteloa kavereiden nimistä. Voit lisätä jopa 10 kaveria, ja heidän nimensä näkyvät verkkosivulla.
 
 ## Sisällysluettelo
 
@@ -31,9 +31,9 @@ git-klooni <versiovarasto-url>
 
 4. Anna ystäväsi nimi pyydettäessä ja klikkaa " OK."
 
-5. Ystäväsi nimi lisätään sivulla näkyvään listaan.
+5. Kaverin nimi lisätään sivulla näkyvään listaan.
 
-6. Jos yrität lisätä enemmän kuin 10 ystävää, saat hälytyksen, joka kertoo, että olet saavuttanut enimmäisrajan.
+6. Jos yrität lisätä enemmän kuin 10 kaveria, saat hälytyksen, joka kertoo, että olet saavuttanut enimmäisrajan.
 
 7. Jos haluat poistaa ystävän, päivitä sivu aloittaaksesi alusta.
 
