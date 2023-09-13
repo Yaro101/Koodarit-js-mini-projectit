@@ -1,6 +1,7 @@
 # A kaverilistan web-sovellus
 
 Yksinkertainen web-sovellus, jonka avulla voit ylläpitää ystävien nimilistaa. Voit lisätä enintään 10 ystävää, ja heidän nimensä näytetään verkkosivulla. Lista voidaan lajitella ja voit myös poistaa nimiä.
+Tässä on linkki, josta voit testata sen: https://yaro101.github.io/KaverilistaV2/
 
 ## Sisällysluettelo
 

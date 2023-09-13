@@ -1,6 +1,7 @@
 # Kaverilista Verkkosovellus
 
 Yksinkertainen verkkosovellus, jonka avulla voit ylläpitää luetteloa kavereiden nimistä. Voit lisätä jopa 10 kaveria, ja heidän nimensä näkyvät verkkosivulla.
+Tässä on linkki, josta voit testata sen: https://yaro101.github.io/KaverilistaV1/
 
 ## Sisällysluettelo
 
@@ -16,7 +17,7 @@ Voit suorittaa tämän sovelluksen paikallisesti noudattamalla näitä ohjeita:
 1. Kloonaa tämä arkisto paikalliselle koneellesi:
 
 ```bash
-git-klooni <versiovarasto-url>
+git-klooni <https://github.com/Yaro101/KaverilistaV1.git>
 ```
 
 2. Avaa ' index.html-tiedosto selaimessasi.
